@@ -42,7 +42,7 @@ Vibe Commerce is a Full-Stack E-Commerce Shopping Cart Application built with th
 
 ## 🖼️ Overview 
 
-<img width="1920" height="1080" alt="Screenshot 2025-10-30 225827" src="https://github.com/user-attachments/assets/0f69defe-bebe-4f51-8325-44a1fa2b823e" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 225746" src="https://github.com/user-attachments/assets/89ba0a09-c516-4dcd-ab60-76370e30f7a1" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-10-30 225803" src="https://github.com/user-attachments/assets/709f3e01-da87-4799-94d0-cd817e4c437b" />
 
