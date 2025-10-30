@@ -78,8 +78,8 @@ Ensure you have the following installed:
 
  🧬 Clone the repository:
    ```bash
-   git clone https://github.com/Kundan696922/noteboard.git
-   cd noteboard
+   git clone https://github.com/Kundan696922/nexora_asisgnment.git
+   cd nexora_asisgnment
    ```
 
 🔧 Run the Backend
