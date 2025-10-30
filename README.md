@@ -1,5 +1,6 @@
 # ✨ Vibe Commerce – Full-Stack E-Commerce Shopping Cart
-Vibe Commerce is a Full-Stack E-Commerce Shopping Cart Application built with the MERN stack + Tailwind CSS. It offers a sleek, responsive shopping experience with product browsing, cart management, and secure mock checkout functionality.
+
+**Vibe Commerce** is a Full-Stack E-Commerce Shopping Cart Application built with the MERN stack + Tailwind CSS. It offers a sleek, responsive shopping experience with product browsing, cart management, and secure mock checkout functionality.
 ---
 
 ## 🚀 Demo
