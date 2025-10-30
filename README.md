@@ -18,9 +18,6 @@
 | ![Express](https://img.icons8.com/ios/24/express-js.png) **Express.js** | Backend API framework |
 | ![React](https://img.icons8.com/color/24/react-native.png) **React** | Frontend UI library |
 | ![Node.js](https://img.icons8.com/color/24/nodejs.png) **Node.js** | Server-side JavaScript runtime |
-| ![Redis](https://img.icons8.com/color/24/redis.png) **Upstash Redis** | Cloud-based Redis for caching and session management |
-| ![Cloudinary](https://img.icons8.com/color/24/cloud.png) **Cloudinary** | Image and media optimization & storage platform |
-| ![Stripe](https://img.icons8.com/color/24/stripe.png) **Stripe** | Secure payment gateway integration |
 | ![TailwindCSS](https://img.icons8.com/color/24/tailwindcss.png) **TailwindCSS + DaisyUI** | Modern, responsive UI styling |
 | ![VSCode](https://img.icons8.com/color/24/visual-studio-code-2019.png) **VS Code** | Code editor |
 
